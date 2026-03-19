@@ -899,14 +899,17 @@ PRODUCT_PACKAGES += \
     com.xiaomi.zsl.nightmotionzslbanding \
     com.xiaomi.zsl.sr \
     fingerprint.fpc \
+    libmfido \
     libmidevauth \
     libmlipay \
     libmt \
     libtida \
     libvsim \
     vendor.xiaomi.hardware.aidl.midevauth-V1-ndk_platform \
+    vendor.xiaomi.hardware.mikeybag-impl \
     vendor.xiaomi.hardware.misauth-V1-ndk_platform \
     vendor.xiaomi.hardware.mrm-V1-ndk_platform \
+    vendor.xiaomi.hardware.otrpagent@2.0-impl \
     vendor.xiaomi.hardware.seaaudio-V1-ndk \
     AHBF-V3-service.xml \
     fod-aidl.xml \
@@ -923,6 +926,7 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.keyboardnanoapp_aidl-service.xml \
     vendor.xiaomi.hardware.mikeybag.xml \
     vendor.xiaomi.hardware.seaaudio.xml \
+    fidoca \
     mfp-daemon \
     mifaced \
     misensor_camera \
@@ -943,6 +947,9 @@ PRODUCT_PACKAGES += \
     mlipayd \
     mrmd \
     mtd \
+    ntag_tool \
     sbridge \
     tidad \
+    vendor.xiaomi.hardware.mikeybag-service \
+    vendor.xiaomi.hardware.otrpagent@2.0-service \
     vsimd
