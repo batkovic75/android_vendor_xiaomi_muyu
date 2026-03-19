@@ -901,6 +901,7 @@ PRODUCT_PACKAGES += \
     fingerprint.fpc \
     libmfido \
     libmidevauth \
+    libmiface \
     libmlipay \
     libmt \
     libtida \
